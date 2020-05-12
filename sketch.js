@@ -39,5 +39,3 @@ function draw() {
 function changeText() {
   changeTarget = !changeTarget;
 }
-
-// Test
